@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Task Management</string>
+
+
+   
+    <string name="submit">Submit</string>
+    <string name="search_task">Search Task</string>
+    <string name="tasks">Tasks</string>
+    <string name="project_name">Project Name</string>
+    <string name="project_description">Project Description</string>
+    <string name="due_date">Due Date</string>
+
+
+</resources>
